@@ -1,0 +1,20 @@
+.rodape{
+    background: #BFBFBF;
+    color: #FDFDFD;
+    text-align: left;
+    padding: 1.5rem;
+    text-transform: lowercase;
+}
+
+.rodape__titulo{
+    font-size: 3rem;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #8D0606;
+    font-family: Pacifico, cursive;
+}
+
+.rodape__descricao{
+    color: #595959;
+    font-size: 1.2rem;
+    -webkit-text-stroke-width: 1px;
+}
